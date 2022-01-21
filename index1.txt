@@ -1,0 +1,214 @@
+<html><head>
+<link rel="icon" href="https://actiss-edu.eu/wp-content/uploads/2020/03/cropped-Actiss-Logo_Logo-favicon-32x32.png"/>
+
+<style>
+body {
+   color: black;
+   font-family: "Sans serif";
+}
+</style>
+
+
+</head><body>
+
+<div class="gallerycontainer">
+
+<h1 id="introductory-module">Netlogo models<sup>1</sup> (best viewed on desktop)</h1>
+
+
+<button class="mbbutton" id="mbbut1" onclick="showmb('1')"><h2 id="introductory-module">Introductory module</h2></button>
+  
+<div class="moduleblock" id="mb1">
+
+<h3><a class="thumbnail" target="_blank" href="Models/Introductory/Intro_model3_protest_initiators.html">Model 1 <span><img src="Graphics/1.png" /><br/></span></a> : Protest - initiators</h3>
+  
+<h3><a class="thumbnail" target="_blank" href="Models/Introductory/Intro_model3_protest_threshold%20(1).html">Model 2 <span><img src="Graphics/3.png" /><br/></span></a> : Protest - threshold level</h3>
+   
+<h3><a class="thumbnail" target="_blank" href="Models/Introductory/Intro_model3_protest_initiators_threshold.html">Model 3 <span><img src="Graphics/2.png" /><br/></span></a> : Protest - initiators and threshold level</h3>
+  
+
+</div><br>
+
+<button class="mbbutton" id="mbbut2" onclick="showmb('2')"><h2>Are we doomed to destroy our planet?</h2></button>
+
+<div class="moduleblock" id="mb2">
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment1.html">Model 1<span><img src="Graphics/4.png" /><br/></span></a> : Number of fishers</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment2.html">Model 2<span><img src="Graphics/5.png" /><br/></span></a> : Fish growth</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment3.html">Model 3<span><img src="Graphics/6.png" /><br/></span></a> : Size of ships</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment4.html">Model 4<span><img src="Graphics/7.png" /><br/></span></a> : Satisficing versus maximizing fishers</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment5.html">Model 5<span><img src="Graphics/8.png" /><br/></span></a> : Limitation on number of sea days (Policy 1)</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment6.html">Model 6<span><img src="Graphics/9.png" /><br/></span></a> : Closing areas (Policy 2)</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment7.html">Model 7<span><img src="Graphics/10.png" /><br/></span></a> : Policy impact of limited days at sea for satificing versus maximizing fishers</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/AreWeDoomedToDestroyOurPlanet/experiment8.html">Model 8<span><img src="Graphics/11.png" /><br/></span></a> : Policy impact of closing areas for satificing versus maximizing fishers</h3>
+
+</div><br>
+
+<button class="mbbutton" id="mbbut3" onclick="showmb('3')"><h2>Social network analysis: The networks connecting people</h2></button>
+
+<div class="moduleblock" id="mb3">
+
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/model1.html">Model 1<span><img src="Graphics/12.png" /><br/></span></a> : Virus in the tribe</h3>
+  
+
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/model2.html">Model 2<span><img src="Graphics/13.png" /><br/></span></a> : Virus in the tribe with hubs</h3>
+  
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/model3.html">Model 3<span><img src="Graphics/14.png" /><br/></span></a> : Virus in the tribe with connectivity of hubs </h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/Model4.html">Model 4<span><img src="Graphics/15.png" /><br/></span></a> : Information and norms in the tribe</h3>
+  
+
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/Model5.html">Model 5<span><img src="Graphics/16.png" /><br/></span></a> : Endorsement </h3>
+  
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/Model6.html">Model 6<span><img src="Graphics/17.png" /><br/></span></a> : Three products</h3>
+
+<h3><a class="thumbnail" target="_blank" href="Models/SocialNetworkAnalysis/model7.html">Model 7<span><img src="Graphics/18.png" /><br/></span></a> : Small worlds<sup>2</sup></h3>
+
+</div><br>
+
+<button class="mbbutton" id="mbbut4" onclick="showmb('4')"><h2 id="Behavioral Module">Introductory module</h2></button>
+  
+<div class="moduleblock" id="mb4">
+
+<h3><a class="thumbnail" target="_blank" href="Models/BehavioralModule/Model1information.html">Model 1 <span><img src="Graphics/21.png" /><br/></span></a> : Information</h3>
+  
+<h3><a class="thumbnail" target="_blank" href="Models/BehavioralModule/Model2informationnorms.html">Model 2 <span><img src="Graphics/22.png" /><br/></span></a> : Information: Norms</h3>
+   
+<h3><a class="thumbnail" target="_blank" href="Models/BehavioralModule/Model3informationnorm&habit.html">Model 3 <span><img src="Graphics/23.png" /><br/></span></a> : Information: Norm and Habit</h3>
+  
+
+</div><br>
+<div style="width: 765; text-align: justify; text-justify: inter-word">
+<h2 id="References">References</h2>
+   
+   <p><sup>1</sup> Wilensky, U. (1999). NetLogo. <a href="http://ccl.northwestern.edu/netlogo">http://ccl.northwestern.edu/netlogo</a>. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. </p>
+
+   <p><sup>2</sup> Wilensky, U. (2015). NetLogo. <a href="http://ccl.northwestern.edu/netlogo/models/SmallWorlds">http://ccl.northwestern.edu/netlogo/models/SmallWorlds</a>. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL. </p>  
+</div>
+
+</div>
+</body></html>
+
+<script>
+   
+function showmb(mnum) {
+  var x = document.getElementById('mb'+mnum);
+  var y = document.getElementById('mbbut'+mnum);
+
+if (x.style.display == "none" || x.style.display == "" ) {
+   for (let element of document.getElementsByClassName("moduleblock")){
+   element.style.display="none";
+   for (let element of document.getElementsByClassName("mbbutton")){
+   element.style.borderRadius="11px";
+}}
+
+}
+
+  if (x.style.display === "block") {
+    x.style.display = "none";
+    y.style.borderRadius="11px";
+  } else {
+    x.style.display = "block";
+    y.style.borderBottomLeftRadius = "2px";
+    y.style.borderBottomRightRadius = "2px";
+  }
+}
+
+</script>
+
+
+<style type="text/css">
+
+.gallerycontainer{
+position: relative;
+width: 45%;
+}
+
+.thumbnail img{
+border: 1px solid white;
+margin: 0 5px 5px 0;
+width: 600px;
+}
+
+.thumbnail:hover{
+background-color: gray;
+
+}
+
+.thumbnail:hover img{
+border: 1px solid blue;
+}
+
+.thumbnail span{
+position: absolute;
+background-color: lightyellow;
+padding: 5px;
+left: -1000px;
+border: 1px dashed gray;
+visibility: hidden;
+color: black;
+text-decoration: none;
+}
+
+.thumbnail span img{
+border-width: 0;
+padding: 2px;
+}
+
+.thumbnail:hover span{
+visibility: visible;
+top: 20;
+left: 110%;
+z-index: 50;
+}
+
+.moduleblock{
+background-color: lightblue;
+display: none;
+width: 748;
+padding-top: 0.5px;
+padding-bottom: 0.5px;
+padding-left: 15px;
+border-color: black;
+border-bottom-left-radius: 12px;
+border-bottom-right-radius: 12px;
+border: 1px solid gray;}
+
+.mbbutton {
+   background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+   background-color:#599bb3;
+   border-top-left-radius:11px;
+   border-top-right-radius:11px;
+   border-bottom-left-radius:11px;
+   border-bottom-right-radius:11px;
+   display:inline-block;
+   cursor:pointer;
+   color:#ffffff;
+   font-family:Arial;
+   font-size:12px;
+   padding:1px 11px;
+   text-decoration:none;
+   min-width: 765;
+}
+.mbbutton:hover {
+   background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+   background-color:#408c99;
+}
+.mbbutton:active {
+   position:relative;
+   top:1px;
+}
+
+body {
+background-color: e9f5f5;
+}        
+
+
+</style>
